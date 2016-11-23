@@ -1,0 +1,19 @@
+{
+  "name": "floppybird",
+  "version": "1.0.0",
+  "description": "Floppy Bird ========= Initially, I wanted to try recreating Flappy Bird in HTML5, using a canvas and recycling the assets from the old game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warnyul/floppybird.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warnyul/floppybird/issues"
+  },
+  "homepage": "https://github.com/warnyul/floppybird#readme"
+}
