@@ -51,19 +51,19 @@
 
 @-webkit-keyframes animBird {
    from { background-position: 0px 0px; }
-   to { background-position: 0px -96px; }
+   to { background-position: 0px -216px; }
 }
 @-moz-keyframes animBird {
    from { background-position: 0px 0px; }
-   to { background-position: 0px -96px; }
+   to { background-position: 0px -216px; }
 }
 @-o-keyframes animBird {
    from { background-position: 0px 0px; }
-   to { background-position: 0px -96px; }
+   to { background-position: 0px -216px; }
 }
 @keyframes animBird {
    from { background-position: 0px 0px; }
-   to { background-position: 0px -96px; }
+   to { background-position: 0px -216px; }
 }
 
 @-webkit-keyframes animPipe {
